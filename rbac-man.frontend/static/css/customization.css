@@ -1,0 +1,10 @@
+div.navigation-heading{
+	background-color: #2e6da4;
+	color: white;
+	font-weight: bold;
+	text-align: right;
+}
+
+.sidebar ul li a.active {
+    background-color: #eee;
+}
