@@ -12,9 +12,12 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "vue": "^1.0.21",
+    "babel-runtime": "^6.0.0",
     "express": "^4.14.0",
-    "babel-runtime": "^6.0.0"
+    "vue": "^1.0.21",
+    "vue-resource": "^0.9.3",
+    "vue-router": "^0.7.13",
+    "vue-tables": "^1.4.64"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
